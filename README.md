@@ -9,7 +9,7 @@
 **Hardware:** Arduino Uno + LDR + Joystick + Microphone  
 **Languages:** C++ (Arduino), Python  
 **Data Visualization:** Matplotlib + CSV logging  
-## Live Demo [▶️ View on Google Drive](https://drive.google.com/file/d/1jmt7_0qMflE0_3wKXw2Xe5VT1JazXmag/view?usp=sharing)
+## Live Demo [▶️ View on Google Drive](https://drive.google.com/file/d/1_WpMp77Bvij55D1NtKv-2BtHZGFNgaIM/view?usp=sharing)
 ---
 
 ##  Overview
