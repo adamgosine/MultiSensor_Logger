@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-orange)
 
-# 🧠 MultiSensor_Logger
+#  MultiSensor_Logger
 
 **Developer:** Adam Gosine  
 **Hardware:** Arduino Uno + LDR + Joystick + Microphone  
@@ -12,7 +12,7 @@
 ## 🎥 Live Demo [▶️ View on Google Drive](https://drive.google.com/file/d/1jmt7_0qMflE0_3wKXw2Xe5VT1JazXmag/view?usp=sharing)
 ---
 
-## ⚙️ Overview
+##  Overview
 
 The **MultiSensor Logger** is an Arduino-based data acquisition system that captures real-time sensor readings from:
 - **LDR (Light-Dependent Resistor):** Measures ambient light intensity  
@@ -27,7 +27,7 @@ All sensor values are:
 
 ---
 
-## 🧰 Hardware Setup
+## Hardware Setup
 
 | Sensor | Arduino Pin | Description |
 |--------|--------------|-------------|
@@ -41,7 +41,7 @@ All sensors share the **5V** and **GND** rails.
 
 ---
 
-## 💻 Software
+## Software
 
 ### 1️⃣ Arduino Code
 - Collects data from all sensors
@@ -56,7 +56,7 @@ All sensors share the **5V** and **GND** rails.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Upload the Arduino sketch to your board.  
 2. Plug in your Arduino and note the COM port (e.g., `COM3`).  
