@@ -9,7 +9,7 @@
 **Hardware:** Arduino Uno + LDR + Joystick + Microphone  
 **Languages:** C++ (Arduino), Python  
 **Data Visualization:** Matplotlib + CSV logging  
-
+## 🎥 Live Demo [▶️ View on Google Drive](https://drive.google.com/file/d/1jmt7_0qMflE0_3wKXw2Xe5VT1JazXmag/view?usp=sharing)
 ---
 
 ## ⚙️ Overview
@@ -25,7 +25,6 @@ All sensor values are:
 - Logged automatically into a **timestamped CSV file** (e.g., `log_2025-11-11_20-03-49.csv`)  
 - Visualized live with **Matplotlib** during acquisition
 
-## 🎥 Live Demo [▶️ View on Google Drive](https://drive.google.com/file/d/1jmt7_0qMflE0_3wKXw2Xe5VT1JazXmag/view?usp=sharing)
 ---
 
 ## 🧰 Hardware Setup
