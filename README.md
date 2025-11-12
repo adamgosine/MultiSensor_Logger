@@ -51,4 +51,15 @@ All sensors share the **5V** and **GND** rails.
 ### 2️⃣ Python Script (`serial_log.py`)
 - Connects to Arduino COM port  
 - Waits for header line (auto sync)  
-- Records
+- Records and plots data in real time  
+- Automatically saves results to a **timestamped CSV**
+
+---
+
+## 🚀 How to Run
+
+1. Upload the Arduino sketch to your board.  
+2. Plug in your Arduino and note the COM port (e.g., `COM3`).  
+3. In your terminal:
+   ```bash
+   python serial_log.py
