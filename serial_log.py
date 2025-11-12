@@ -51,6 +51,8 @@ with open(filename, "w", newline="") as f:
         ax.plot(xs, joyx, label="Joy X")
         ax.plot(xs, joyy, label="Joy Y")
         ax.legend()
+        ax.set_xlabel("Time (samples)")
+        ax.set_ylabel("Sensor Reading (0–1023)")
         ax.set_title(f"Live Sensor Logger – {int(time.time() - start)} s")
         plt.pause(0.01)
 
