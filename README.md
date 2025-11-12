@@ -43,12 +43,12 @@ All sensors share the **5V** and **GND** rails.
 
 ## Software
 
-### 1️⃣ Arduino Code
+### 1️. Arduino Code
 - Collects data from all sensors
 - Applies an EMA filter (`ALPHA = 0.25`)
 - Streams comma-separated sensor data to serial
 
-### 2️⃣ Python Script (`serial_log.py`)
+### 2️. Python Script (`serial_log.py`)
 - Connects to Arduino COM port  
 - Waits for header line (auto sync)  
 - Records and plots data in real time  
