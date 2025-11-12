@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Arduino](https://img.shields.io/badge/Arduino-Uno-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-orange)
+
 # 🧠 MultiSensor_Logger
 
 **Developer:** Adam Gosine  
